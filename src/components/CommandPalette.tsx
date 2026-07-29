@@ -26,7 +26,7 @@ export default function CommandPalette({ isOpen, onClose }: CommandPaletteProps)
     
     // Quick Actions
     { id: 'github', title: 'Open GitHub Profile', category: 'External Links', icon: ExternalLink, action: () => window.open('https://github.com/Sharanghrav-Javali', '_blank') },
-    { id: 'linkedin', title: 'Connect on LinkedIn', category: 'External Links', icon: ExternalLink, action: () => window.open('https://www.linkedin.com/in/sharanghrav-j-970b63362', '_blank') },
+    { id: 'linkedin', title: 'Connect on LinkedIn', category: 'External Links', icon: ExternalLink, action: () => window.open('https://www.linkedin.com/in/sharanghrav-javali-970b63362', '_blank') },
     { id: 'email', title: 'Send Email Directly', category: 'Actions', icon: Mail, action: () => window.open('mailto:javalisharanghrav@gmail.com', '_blank') },
     { id: 'terminal', title: 'Launch Secret Terminal', category: 'Easter Egg', icon: Terminal, action: () => {
       // Simulate typing "hello" by dispatching custom event

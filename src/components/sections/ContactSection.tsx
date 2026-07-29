@@ -36,7 +36,7 @@ export default function ContactSection() {
 
   const socialLinks = [
     { name: 'GitHub', value: 'github.com/Sharanghrav-Javali', url: 'https://github.com/Sharanghrav-Javali', icon: GithubIcon },
-    { name: 'LinkedIn', value: 'linkedin.com/in/sharanghrav-j-970b63362', url: 'https://www.linkedin.com/in/sharanghrav-j-970b63362', icon: LinkedinIcon },
+    { name: 'LinkedIn', value: 'linkedin.com/in/sharanghrav-javali-970b63362', url: 'https://www.linkedin.com/in/sharanghrav-javali-970b63362', icon: LinkedinIcon },
     { name: 'Email', value: 'javalisharanghrav@gmail.com', url: 'mailto:javalisharanghrav@gmail.com', icon: Mail },
     { name: 'Phone', value: '+91 80883 66539', url: 'tel:+918088366539', icon: Phone },
     { name: 'Location', value: 'Bangalore, Karnataka, India', url: 'https://maps.google.com/?q=Bangalore', icon: MapPin },

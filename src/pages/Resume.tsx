@@ -68,13 +68,13 @@ export default function Resume() {
             {/* Social Rows */}
             <div className="flex flex-wrap items-center justify-center gap-4 text-xs text-neutral-500 pt-1 print:justify-start print:text-neutral-600 print:pt-2">
               <a 
-                href="https://www.linkedin.com/in/sharanghrav-j-970b63362" 
+                href="https://www.linkedin.com/in/sharanghrav-javali-970b63362" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-1 hover:text-white print:text-neutral-600"
               >
                 <LinkedinIcon className="h-3 w-3" />
-                <span>linkedin.com/in/sharanghrav-j-970b63362</span>
+                <span>linkedin.com/in/sharanghrav-javali-970b63362</span>
               </a>
               <span className="hidden sm:inline text-neutral-700 select-none print:inline">|</span>
               <a 

@@ -49,7 +49,7 @@ export default function Footer() {
             <a href="https://github.com/Sharanghrav-Javali" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
               <GithubIcon className="h-3.5 w-3.5" />
             </a>
-            <a href="https://www.linkedin.com/in/sharanghrav-j-970b63362" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+            <a href="https://www.linkedin.com/in/sharanghrav-javali-970b63362" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
               <LinkedinIcon className="h-3.5 w-3.5" />
             </a>
             <a href="mailto:javalisharanghrav@gmail.com" className="hover:text-white transition-colors">
